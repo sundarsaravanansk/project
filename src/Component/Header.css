@@ -390,7 +390,7 @@ button , p :hover {
 @media screen and (max-width : 576px) {
     .header{
         background-color: #231bbb;
-        height: 5rem;
+        height: 5.1rem;
         position: fixed;
         width: 100%;
         z-index: 10;
@@ -413,8 +413,8 @@ button , p :hover {
     .header .input input{
         width: 85%;
         margin-top: 2px;
-        padding: 4.5px 8px;
-        font-size: 11px;
+        padding: 4.4px 8px;
+        font-size: 14px;
         border-radius: 2px;
         border: 1px solid #fff;
        
