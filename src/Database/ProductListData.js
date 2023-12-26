@@ -2,7 +2,7 @@ export  let Data =[
     {
         id :1 ,
         img : "./image/productList/bed-1.webp",
-        Name : "CG Home Floral Life Havana E....",
+        Name : "CG Home Floral Havana",
         From :749,
         dis:2499,
         pr : 45,
